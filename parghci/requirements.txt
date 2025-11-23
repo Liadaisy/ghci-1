@@ -1,0 +1,10 @@
+streamlit>=1.22.0
+sqlalchemy>=1.4
+pandas
+numpy
+scikit-learn
+joblib
+pyjwt
+requests
+shap
+matplotlib
