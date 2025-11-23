@@ -1,0 +1,11 @@
+streamlit==1.38.0
+auth0-python==4.5.0
+python-dotenv==1.0.1
+sqlalchemy==2.0.31
+requests==2.32.3
+pyjwt==2.8.0
+joblib==1.4.2
+scikit-learn==1.5.1
+shap==0.47.0
+pandas==2.2.2
+numpy==2.1.1
